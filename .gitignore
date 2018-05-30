@@ -1,0 +1,14 @@
+#files to not save
+*.hex
+*.cod
+*.asm
+*.lst
+*.o
+*.elf
+*.map
+*.bin
+.tags
+GPATH
+GRTAGS
+GTAGS
+*.zip
